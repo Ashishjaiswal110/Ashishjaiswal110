@@ -13,7 +13,7 @@
 
 ### 🔧 Technologies & Skills
 - **Programming Languages:**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+  ![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe_r7nX0XEtgOC7i9gY6WoNBCCIXaI650PzOOlGmow3az_pn130sZGqrA&s=10)  
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
